@@ -1,0 +1,511 @@
+date,search_interest,search_term,year,team_label
+2018-01-01,0,Ferrari F1 merch,2018,Ferrari
+2018-02-01,0,Ferrari F1 merch,2018,Ferrari
+2018-03-01,0,Ferrari F1 merch,2018,Ferrari
+2018-04-01,0,Ferrari F1 merch,2018,Ferrari
+2018-05-01,0,Ferrari F1 merch,2018,Ferrari
+2018-06-01,0,Ferrari F1 merch,2018,Ferrari
+2018-07-01,0,Ferrari F1 merch,2018,Ferrari
+2018-08-01,0,Ferrari F1 merch,2018,Ferrari
+2018-09-01,0,Ferrari F1 merch,2018,Ferrari
+2018-10-01,0,Ferrari F1 merch,2018,Ferrari
+2018-11-01,0,Ferrari F1 merch,2018,Ferrari
+2018-12-01,0,Ferrari F1 merch,2018,Ferrari
+2019-01-01,0,Ferrari F1 merch,2019,Ferrari
+2019-02-01,0,Ferrari F1 merch,2019,Ferrari
+2019-03-01,0,Ferrari F1 merch,2019,Ferrari
+2019-04-01,0,Ferrari F1 merch,2019,Ferrari
+2019-05-01,0,Ferrari F1 merch,2019,Ferrari
+2019-06-01,0,Ferrari F1 merch,2019,Ferrari
+2019-07-01,0,Ferrari F1 merch,2019,Ferrari
+2019-08-01,0,Ferrari F1 merch,2019,Ferrari
+2019-09-01,0,Ferrari F1 merch,2019,Ferrari
+2019-10-01,0,Ferrari F1 merch,2019,Ferrari
+2019-11-01,0,Ferrari F1 merch,2019,Ferrari
+2019-12-01,0,Ferrari F1 merch,2019,Ferrari
+2020-01-01,0,Ferrari F1 merch,2020,Ferrari
+2020-02-01,0,Ferrari F1 merch,2020,Ferrari
+2020-03-01,0,Ferrari F1 merch,2020,Ferrari
+2020-04-01,0,Ferrari F1 merch,2020,Ferrari
+2020-05-01,0,Ferrari F1 merch,2020,Ferrari
+2020-06-01,0,Ferrari F1 merch,2020,Ferrari
+2020-07-01,0,Ferrari F1 merch,2020,Ferrari
+2020-08-01,0,Ferrari F1 merch,2020,Ferrari
+2020-09-01,0,Ferrari F1 merch,2020,Ferrari
+2020-10-01,0,Ferrari F1 merch,2020,Ferrari
+2020-11-01,0,Ferrari F1 merch,2020,Ferrari
+2020-12-01,0,Ferrari F1 merch,2020,Ferrari
+2021-01-01,0,Ferrari F1 merch,2021,Ferrari
+2021-02-01,0,Ferrari F1 merch,2021,Ferrari
+2021-03-01,0,Ferrari F1 merch,2021,Ferrari
+2021-04-01,0,Ferrari F1 merch,2021,Ferrari
+2021-05-01,5,Ferrari F1 merch,2021,Ferrari
+2021-06-01,0,Ferrari F1 merch,2021,Ferrari
+2021-07-01,0,Ferrari F1 merch,2021,Ferrari
+2021-08-01,0,Ferrari F1 merch,2021,Ferrari
+2021-09-01,0,Ferrari F1 merch,2021,Ferrari
+2021-10-01,0,Ferrari F1 merch,2021,Ferrari
+2021-11-01,0,Ferrari F1 merch,2021,Ferrari
+2021-12-01,0,Ferrari F1 merch,2021,Ferrari
+2022-01-01,0,Ferrari F1 merch,2022,Ferrari
+2022-02-01,0,Ferrari F1 merch,2022,Ferrari
+2022-03-01,29,Ferrari F1 merch,2022,Ferrari
+2022-04-01,24,Ferrari F1 merch,2022,Ferrari
+2022-05-01,15,Ferrari F1 merch,2022,Ferrari
+2022-06-01,12,Ferrari F1 merch,2022,Ferrari
+2022-07-01,20,Ferrari F1 merch,2022,Ferrari
+2022-08-01,11,Ferrari F1 merch,2022,Ferrari
+2022-09-01,15,Ferrari F1 merch,2022,Ferrari
+2022-10-01,11,Ferrari F1 merch,2022,Ferrari
+2022-11-01,12,Ferrari F1 merch,2022,Ferrari
+2022-12-01,10,Ferrari F1 merch,2022,Ferrari
+2023-01-01,5,Ferrari F1 merch,2023,Ferrari
+2023-02-01,19,Ferrari F1 merch,2023,Ferrari
+2023-03-01,17,Ferrari F1 merch,2023,Ferrari
+2023-04-01,11,Ferrari F1 merch,2023,Ferrari
+2023-05-01,11,Ferrari F1 merch,2023,Ferrari
+2023-06-01,10,Ferrari F1 merch,2023,Ferrari
+2023-07-01,11,Ferrari F1 merch,2023,Ferrari
+2023-08-01,10,Ferrari F1 merch,2023,Ferrari
+2023-09-01,20,Ferrari F1 merch,2023,Ferrari
+2023-10-01,22,Ferrari F1 merch,2023,Ferrari
+2023-11-01,38,Ferrari F1 merch,2023,Ferrari
+2023-12-01,17,Ferrari F1 merch,2023,Ferrari
+2024-01-01,10,Ferrari F1 merch,2024,Ferrari
+2024-02-01,42,Ferrari F1 merch,2024,Ferrari
+2024-03-01,42,Ferrari F1 merch,2024,Ferrari
+2024-04-01,79,Ferrari F1 merch,2024,Ferrari
+2024-05-01,77,Ferrari F1 merch,2024,Ferrari
+2024-06-01,28,Ferrari F1 merch,2024,Ferrari
+2024-07-01,19,Ferrari F1 merch,2024,Ferrari
+2024-08-01,25,Ferrari F1 merch,2024,Ferrari
+2024-09-01,24,Ferrari F1 merch,2024,Ferrari
+2024-10-01,34,Ferrari F1 merch,2024,Ferrari
+2024-11-01,45,Ferrari F1 merch,2024,Ferrari
+2024-12-01,53,Ferrari F1 merch,2024,Ferrari
+2025-01-01,43,Ferrari F1 merch,2025,Ferrari
+2025-02-01,74,Ferrari F1 merch,2025,Ferrari
+2025-03-01,100,Ferrari F1 merch,2025,Ferrari
+2025-04-01,52,Ferrari F1 merch,2025,Ferrari
+2025-05-01,58,Ferrari F1 merch,2025,Ferrari
+2025-06-01,26,Ferrari F1 merch,2025,Ferrari
+2025-07-01,47,Ferrari F1 merch,2025,Ferrari
+2025-08-01,23,Ferrari F1 merch,2025,Ferrari
+2025-09-01,40,Ferrari F1 merch,2025,Ferrari
+2025-10-01,36,Ferrari F1 merch,2025,Ferrari
+2025-11-01,43,Ferrari F1 merch,2025,Ferrari
+2025-12-01,39,Ferrari F1 merch,2025,Ferrari
+2026-01-01,26,Ferrari F1 merch,2026,Ferrari
+2026-02-01,28,Ferrari F1 merch,2026,Ferrari
+2026-03-01,73,Ferrari F1 merch,2026,Ferrari
+2026-04-01,23,Ferrari F1 merch,2026,Ferrari
+2026-05-01,28,Ferrari F1 merch,2026,Ferrari
+2026-06-01,33,Ferrari F1 merch,2026,Ferrari
+2018-01-01,0,McLaren F1 merch,2018,McLaren
+2018-02-01,0,McLaren F1 merch,2018,McLaren
+2018-03-01,0,McLaren F1 merch,2018,McLaren
+2018-04-01,0,McLaren F1 merch,2018,McLaren
+2018-05-01,0,McLaren F1 merch,2018,McLaren
+2018-06-01,0,McLaren F1 merch,2018,McLaren
+2018-07-01,0,McLaren F1 merch,2018,McLaren
+2018-08-01,0,McLaren F1 merch,2018,McLaren
+2018-09-01,0,McLaren F1 merch,2018,McLaren
+2018-10-01,0,McLaren F1 merch,2018,McLaren
+2018-11-01,0,McLaren F1 merch,2018,McLaren
+2018-12-01,0,McLaren F1 merch,2018,McLaren
+2019-01-01,0,McLaren F1 merch,2019,McLaren
+2019-02-01,0,McLaren F1 merch,2019,McLaren
+2019-03-01,0,McLaren F1 merch,2019,McLaren
+2019-04-01,0,McLaren F1 merch,2019,McLaren
+2019-05-01,0,McLaren F1 merch,2019,McLaren
+2019-06-01,0,McLaren F1 merch,2019,McLaren
+2019-07-01,0,McLaren F1 merch,2019,McLaren
+2019-08-01,0,McLaren F1 merch,2019,McLaren
+2019-09-01,0,McLaren F1 merch,2019,McLaren
+2019-10-01,0,McLaren F1 merch,2019,McLaren
+2019-11-01,0,McLaren F1 merch,2019,McLaren
+2019-12-01,0,McLaren F1 merch,2019,McLaren
+2020-01-01,0,McLaren F1 merch,2020,McLaren
+2020-02-01,0,McLaren F1 merch,2020,McLaren
+2020-03-01,0,McLaren F1 merch,2020,McLaren
+2020-04-01,0,McLaren F1 merch,2020,McLaren
+2020-05-01,0,McLaren F1 merch,2020,McLaren
+2020-06-01,7,McLaren F1 merch,2020,McLaren
+2020-07-01,13,McLaren F1 merch,2020,McLaren
+2020-08-01,0,McLaren F1 merch,2020,McLaren
+2020-09-01,7,McLaren F1 merch,2020,McLaren
+2020-10-01,0,McLaren F1 merch,2020,McLaren
+2020-11-01,0,McLaren F1 merch,2020,McLaren
+2020-12-01,0,McLaren F1 merch,2020,McLaren
+2021-01-01,0,McLaren F1 merch,2021,McLaren
+2021-02-01,16,McLaren F1 merch,2021,McLaren
+2021-03-01,11,McLaren F1 merch,2021,McLaren
+2021-04-01,12,McLaren F1 merch,2021,McLaren
+2021-05-01,19,McLaren F1 merch,2021,McLaren
+2021-06-01,13,McLaren F1 merch,2021,McLaren
+2021-07-01,18,McLaren F1 merch,2021,McLaren
+2021-08-01,0,McLaren F1 merch,2021,McLaren
+2021-09-01,18,McLaren F1 merch,2021,McLaren
+2021-10-01,19,McLaren F1 merch,2021,McLaren
+2021-11-01,11,McLaren F1 merch,2021,McLaren
+2021-12-01,12,McLaren F1 merch,2021,McLaren
+2022-01-01,13,McLaren F1 merch,2022,McLaren
+2022-02-01,19,McLaren F1 merch,2022,McLaren
+2022-03-01,25,McLaren F1 merch,2022,McLaren
+2022-04-01,20,McLaren F1 merch,2022,McLaren
+2022-05-01,23,McLaren F1 merch,2022,McLaren
+2022-06-01,8,McLaren F1 merch,2022,McLaren
+2022-07-01,18,McLaren F1 merch,2022,McLaren
+2022-08-01,10,McLaren F1 merch,2022,McLaren
+2022-09-01,0,McLaren F1 merch,2022,McLaren
+2022-10-01,14,McLaren F1 merch,2022,McLaren
+2022-11-01,7,McLaren F1 merch,2022,McLaren
+2022-12-01,11,McLaren F1 merch,2022,McLaren
+2023-01-01,0,McLaren F1 merch,2023,McLaren
+2023-02-01,15,McLaren F1 merch,2023,McLaren
+2023-03-01,0,McLaren F1 merch,2023,McLaren
+2023-04-01,0,McLaren F1 merch,2023,McLaren
+2023-05-01,10,McLaren F1 merch,2023,McLaren
+2023-06-01,9,McLaren F1 merch,2023,McLaren
+2023-07-01,21,McLaren F1 merch,2023,McLaren
+2023-08-01,18,McLaren F1 merch,2023,McLaren
+2023-09-01,18,McLaren F1 merch,2023,McLaren
+2023-10-01,31,McLaren F1 merch,2023,McLaren
+2023-11-01,43,McLaren F1 merch,2023,McLaren
+2023-12-01,28,McLaren F1 merch,2023,McLaren
+2024-01-01,14,McLaren F1 merch,2024,McLaren
+2024-02-01,31,McLaren F1 merch,2024,McLaren
+2024-03-01,27,McLaren F1 merch,2024,McLaren
+2024-04-01,34,McLaren F1 merch,2024,McLaren
+2024-05-01,70,McLaren F1 merch,2024,McLaren
+2024-06-01,40,McLaren F1 merch,2024,McLaren
+2024-07-01,51,McLaren F1 merch,2024,McLaren
+2024-08-01,28,McLaren F1 merch,2024,McLaren
+2024-09-01,42,McLaren F1 merch,2024,McLaren
+2024-10-01,41,McLaren F1 merch,2024,McLaren
+2024-11-01,51,McLaren F1 merch,2024,McLaren
+2024-12-01,69,McLaren F1 merch,2024,McLaren
+2025-01-01,17,McLaren F1 merch,2025,McLaren
+2025-02-01,25,McLaren F1 merch,2025,McLaren
+2025-03-01,80,McLaren F1 merch,2025,McLaren
+2025-04-01,46,McLaren F1 merch,2025,McLaren
+2025-05-01,52,McLaren F1 merch,2025,McLaren
+2025-06-01,52,McLaren F1 merch,2025,McLaren
+2025-07-01,65,McLaren F1 merch,2025,McLaren
+2025-08-01,28,McLaren F1 merch,2025,McLaren
+2025-09-01,27,McLaren F1 merch,2025,McLaren
+2025-10-01,43,McLaren F1 merch,2025,McLaren
+2025-11-01,69,McLaren F1 merch,2025,McLaren
+2025-12-01,100,McLaren F1 merch,2025,McLaren
+2026-01-01,27,McLaren F1 merch,2026,McLaren
+2026-02-01,40,McLaren F1 merch,2026,McLaren
+2026-03-01,52,McLaren F1 merch,2026,McLaren
+2026-04-01,25,McLaren F1 merch,2026,McLaren
+2026-05-01,29,McLaren F1 merch,2026,McLaren
+2026-06-01,19,McLaren F1 merch,2026,McLaren
+2018-01-01,0,Mercedes F1 merch,2018,Mercedes
+2018-02-01,0,Mercedes F1 merch,2018,Mercedes
+2018-03-01,0,Mercedes F1 merch,2018,Mercedes
+2018-04-01,0,Mercedes F1 merch,2018,Mercedes
+2018-05-01,0,Mercedes F1 merch,2018,Mercedes
+2018-06-01,0,Mercedes F1 merch,2018,Mercedes
+2018-07-01,0,Mercedes F1 merch,2018,Mercedes
+2018-08-01,0,Mercedes F1 merch,2018,Mercedes
+2018-09-01,0,Mercedes F1 merch,2018,Mercedes
+2018-10-01,0,Mercedes F1 merch,2018,Mercedes
+2018-11-01,0,Mercedes F1 merch,2018,Mercedes
+2018-12-01,0,Mercedes F1 merch,2018,Mercedes
+2019-01-01,0,Mercedes F1 merch,2019,Mercedes
+2019-02-01,0,Mercedes F1 merch,2019,Mercedes
+2019-03-01,0,Mercedes F1 merch,2019,Mercedes
+2019-04-01,0,Mercedes F1 merch,2019,Mercedes
+2019-05-01,0,Mercedes F1 merch,2019,Mercedes
+2019-06-01,0,Mercedes F1 merch,2019,Mercedes
+2019-07-01,0,Mercedes F1 merch,2019,Mercedes
+2019-08-01,0,Mercedes F1 merch,2019,Mercedes
+2019-09-01,0,Mercedes F1 merch,2019,Mercedes
+2019-10-01,0,Mercedes F1 merch,2019,Mercedes
+2019-11-01,0,Mercedes F1 merch,2019,Mercedes
+2019-12-01,0,Mercedes F1 merch,2019,Mercedes
+2020-01-01,0,Mercedes F1 merch,2020,Mercedes
+2020-02-01,0,Mercedes F1 merch,2020,Mercedes
+2020-03-01,0,Mercedes F1 merch,2020,Mercedes
+2020-04-01,0,Mercedes F1 merch,2020,Mercedes
+2020-05-01,0,Mercedes F1 merch,2020,Mercedes
+2020-06-01,0,Mercedes F1 merch,2020,Mercedes
+2020-07-01,0,Mercedes F1 merch,2020,Mercedes
+2020-08-01,0,Mercedes F1 merch,2020,Mercedes
+2020-09-01,0,Mercedes F1 merch,2020,Mercedes
+2020-10-01,0,Mercedes F1 merch,2020,Mercedes
+2020-11-01,0,Mercedes F1 merch,2020,Mercedes
+2020-12-01,0,Mercedes F1 merch,2020,Mercedes
+2021-01-01,0,Mercedes F1 merch,2021,Mercedes
+2021-02-01,0,Mercedes F1 merch,2021,Mercedes
+2021-03-01,0,Mercedes F1 merch,2021,Mercedes
+2021-04-01,0,Mercedes F1 merch,2021,Mercedes
+2021-05-01,0,Mercedes F1 merch,2021,Mercedes
+2021-06-01,0,Mercedes F1 merch,2021,Mercedes
+2021-07-01,5,Mercedes F1 merch,2021,Mercedes
+2021-08-01,0,Mercedes F1 merch,2021,Mercedes
+2021-09-01,0,Mercedes F1 merch,2021,Mercedes
+2021-10-01,0,Mercedes F1 merch,2021,Mercedes
+2021-11-01,6,Mercedes F1 merch,2021,Mercedes
+2021-12-01,7,Mercedes F1 merch,2021,Mercedes
+2022-01-01,0,Mercedes F1 merch,2022,Mercedes
+2022-02-01,10,Mercedes F1 merch,2022,Mercedes
+2022-03-01,14,Mercedes F1 merch,2022,Mercedes
+2022-04-01,9,Mercedes F1 merch,2022,Mercedes
+2022-05-01,10,Mercedes F1 merch,2022,Mercedes
+2022-06-01,10,Mercedes F1 merch,2022,Mercedes
+2022-07-01,16,Mercedes F1 merch,2022,Mercedes
+2022-08-01,12,Mercedes F1 merch,2022,Mercedes
+2022-09-01,10,Mercedes F1 merch,2022,Mercedes
+2022-10-01,19,Mercedes F1 merch,2022,Mercedes
+2022-11-01,15,Mercedes F1 merch,2022,Mercedes
+2022-12-01,9,Mercedes F1 merch,2022,Mercedes
+2023-01-01,6,Mercedes F1 merch,2023,Mercedes
+2023-02-01,24,Mercedes F1 merch,2023,Mercedes
+2023-03-01,22,Mercedes F1 merch,2023,Mercedes
+2023-04-01,20,Mercedes F1 merch,2023,Mercedes
+2023-05-01,19,Mercedes F1 merch,2023,Mercedes
+2023-06-01,12,Mercedes F1 merch,2023,Mercedes
+2023-07-01,20,Mercedes F1 merch,2023,Mercedes
+2023-08-01,12,Mercedes F1 merch,2023,Mercedes
+2023-09-01,13,Mercedes F1 merch,2023,Mercedes
+2023-10-01,18,Mercedes F1 merch,2023,Mercedes
+2023-11-01,24,Mercedes F1 merch,2023,Mercedes
+2023-12-01,18,Mercedes F1 merch,2023,Mercedes
+2024-01-01,10,Mercedes F1 merch,2024,Mercedes
+2024-02-01,19,Mercedes F1 merch,2024,Mercedes
+2024-03-01,18,Mercedes F1 merch,2024,Mercedes
+2024-04-01,12,Mercedes F1 merch,2024,Mercedes
+2024-05-01,11,Mercedes F1 merch,2024,Mercedes
+2024-06-01,18,Mercedes F1 merch,2024,Mercedes
+2024-07-01,19,Mercedes F1 merch,2024,Mercedes
+2024-08-01,13,Mercedes F1 merch,2024,Mercedes
+2024-09-01,10,Mercedes F1 merch,2024,Mercedes
+2024-10-01,19,Mercedes F1 merch,2024,Mercedes
+2024-11-01,20,Mercedes F1 merch,2024,Mercedes
+2024-12-01,26,Mercedes F1 merch,2024,Mercedes
+2025-01-01,10,Mercedes F1 merch,2025,Mercedes
+2025-02-01,11,Mercedes F1 merch,2025,Mercedes
+2025-03-01,17,Mercedes F1 merch,2025,Mercedes
+2025-04-01,24,Mercedes F1 merch,2025,Mercedes
+2025-05-01,32,Mercedes F1 merch,2025,Mercedes
+2025-06-01,21,Mercedes F1 merch,2025,Mercedes
+2025-07-01,39,Mercedes F1 merch,2025,Mercedes
+2025-08-01,17,Mercedes F1 merch,2025,Mercedes
+2025-09-01,16,Mercedes F1 merch,2025,Mercedes
+2025-10-01,29,Mercedes F1 merch,2025,Mercedes
+2025-11-01,52,Mercedes F1 merch,2025,Mercedes
+2025-12-01,45,Mercedes F1 merch,2025,Mercedes
+2026-01-01,25,Mercedes F1 merch,2026,Mercedes
+2026-02-01,29,Mercedes F1 merch,2026,Mercedes
+2026-03-01,100,Mercedes F1 merch,2026,Mercedes
+2026-04-01,28,Mercedes F1 merch,2026,Mercedes
+2026-05-01,48,Mercedes F1 merch,2026,Mercedes
+2026-06-01,45,Mercedes F1 merch,2026,Mercedes
+2018-01-01,0,Red Bull F1 merch,2018,Red Bull
+2018-02-01,0,Red Bull F1 merch,2018,Red Bull
+2018-03-01,0,Red Bull F1 merch,2018,Red Bull
+2018-04-01,0,Red Bull F1 merch,2018,Red Bull
+2018-05-01,0,Red Bull F1 merch,2018,Red Bull
+2018-06-01,0,Red Bull F1 merch,2018,Red Bull
+2018-07-01,0,Red Bull F1 merch,2018,Red Bull
+2018-08-01,0,Red Bull F1 merch,2018,Red Bull
+2018-09-01,0,Red Bull F1 merch,2018,Red Bull
+2018-10-01,0,Red Bull F1 merch,2018,Red Bull
+2018-11-01,0,Red Bull F1 merch,2018,Red Bull
+2018-12-01,0,Red Bull F1 merch,2018,Red Bull
+2019-01-01,0,Red Bull F1 merch,2019,Red Bull
+2019-02-01,0,Red Bull F1 merch,2019,Red Bull
+2019-03-01,0,Red Bull F1 merch,2019,Red Bull
+2019-04-01,0,Red Bull F1 merch,2019,Red Bull
+2019-05-01,0,Red Bull F1 merch,2019,Red Bull
+2019-06-01,0,Red Bull F1 merch,2019,Red Bull
+2019-07-01,0,Red Bull F1 merch,2019,Red Bull
+2019-08-01,0,Red Bull F1 merch,2019,Red Bull
+2019-09-01,0,Red Bull F1 merch,2019,Red Bull
+2019-10-01,0,Red Bull F1 merch,2019,Red Bull
+2019-11-01,0,Red Bull F1 merch,2019,Red Bull
+2019-12-01,0,Red Bull F1 merch,2019,Red Bull
+2020-01-01,0,Red Bull F1 merch,2020,Red Bull
+2020-02-01,0,Red Bull F1 merch,2020,Red Bull
+2020-03-01,0,Red Bull F1 merch,2020,Red Bull
+2020-04-01,0,Red Bull F1 merch,2020,Red Bull
+2020-05-01,0,Red Bull F1 merch,2020,Red Bull
+2020-06-01,0,Red Bull F1 merch,2020,Red Bull
+2020-07-01,0,Red Bull F1 merch,2020,Red Bull
+2020-08-01,0,Red Bull F1 merch,2020,Red Bull
+2020-09-01,0,Red Bull F1 merch,2020,Red Bull
+2020-10-01,0,Red Bull F1 merch,2020,Red Bull
+2020-11-01,0,Red Bull F1 merch,2020,Red Bull
+2020-12-01,0,Red Bull F1 merch,2020,Red Bull
+2021-01-01,0,Red Bull F1 merch,2021,Red Bull
+2021-02-01,0,Red Bull F1 merch,2021,Red Bull
+2021-03-01,20,Red Bull F1 merch,2021,Red Bull
+2021-04-01,0,Red Bull F1 merch,2021,Red Bull
+2021-05-01,0,Red Bull F1 merch,2021,Red Bull
+2021-06-01,37,Red Bull F1 merch,2021,Red Bull
+2021-07-01,25,Red Bull F1 merch,2021,Red Bull
+2021-08-01,19,Red Bull F1 merch,2021,Red Bull
+2021-09-01,22,Red Bull F1 merch,2021,Red Bull
+2021-10-01,43,Red Bull F1 merch,2021,Red Bull
+2021-11-01,55,Red Bull F1 merch,2021,Red Bull
+2021-12-01,81,Red Bull F1 merch,2021,Red Bull
+2022-01-01,0,Red Bull F1 merch,2022,Red Bull
+2022-02-01,42,Red Bull F1 merch,2022,Red Bull
+2022-03-01,70,Red Bull F1 merch,2022,Red Bull
+2022-04-01,47,Red Bull F1 merch,2022,Red Bull
+2022-05-01,53,Red Bull F1 merch,2022,Red Bull
+2022-06-01,22,Red Bull F1 merch,2022,Red Bull
+2022-07-01,38,Red Bull F1 merch,2022,Red Bull
+2022-08-01,30,Red Bull F1 merch,2022,Red Bull
+2022-09-01,33,Red Bull F1 merch,2022,Red Bull
+2022-10-01,54,Red Bull F1 merch,2022,Red Bull
+2022-11-01,57,Red Bull F1 merch,2022,Red Bull
+2022-12-01,0,Red Bull F1 merch,2022,Red Bull
+2023-01-01,18,Red Bull F1 merch,2023,Red Bull
+2023-02-01,48,Red Bull F1 merch,2023,Red Bull
+2023-03-01,28,Red Bull F1 merch,2023,Red Bull
+2023-04-01,30,Red Bull F1 merch,2023,Red Bull
+2023-05-01,53,Red Bull F1 merch,2023,Red Bull
+2023-06-01,26,Red Bull F1 merch,2023,Red Bull
+2023-07-01,21,Red Bull F1 merch,2023,Red Bull
+2023-08-01,28,Red Bull F1 merch,2023,Red Bull
+2023-09-01,39,Red Bull F1 merch,2023,Red Bull
+2023-10-01,60,Red Bull F1 merch,2023,Red Bull
+2023-11-01,90,Red Bull F1 merch,2023,Red Bull
+2023-12-01,55,Red Bull F1 merch,2023,Red Bull
+2024-01-01,0,Red Bull F1 merch,2024,Red Bull
+2024-02-01,54,Red Bull F1 merch,2024,Red Bull
+2024-03-01,62,Red Bull F1 merch,2024,Red Bull
+2024-04-01,71,Red Bull F1 merch,2024,Red Bull
+2024-05-01,55,Red Bull F1 merch,2024,Red Bull
+2024-06-01,38,Red Bull F1 merch,2024,Red Bull
+2024-07-01,0,Red Bull F1 merch,2024,Red Bull
+2024-08-01,23,Red Bull F1 merch,2024,Red Bull
+2024-09-01,35,Red Bull F1 merch,2024,Red Bull
+2024-10-01,24,Red Bull F1 merch,2024,Red Bull
+2024-11-01,56,Red Bull F1 merch,2024,Red Bull
+2024-12-01,64,Red Bull F1 merch,2024,Red Bull
+2025-01-01,28,Red Bull F1 merch,2025,Red Bull
+2025-02-01,25,Red Bull F1 merch,2025,Red Bull
+2025-03-01,60,Red Bull F1 merch,2025,Red Bull
+2025-04-01,70,Red Bull F1 merch,2025,Red Bull
+2025-05-01,36,Red Bull F1 merch,2025,Red Bull
+2025-06-01,23,Red Bull F1 merch,2025,Red Bull
+2025-07-01,59,Red Bull F1 merch,2025,Red Bull
+2025-08-01,66,Red Bull F1 merch,2025,Red Bull
+2025-09-01,62,Red Bull F1 merch,2025,Red Bull
+2025-10-01,73,Red Bull F1 merch,2025,Red Bull
+2025-11-01,89,Red Bull F1 merch,2025,Red Bull
+2025-12-01,100,Red Bull F1 merch,2025,Red Bull
+2026-01-01,73,Red Bull F1 merch,2026,Red Bull
+2026-02-01,58,Red Bull F1 merch,2026,Red Bull
+2026-03-01,76,Red Bull F1 merch,2026,Red Bull
+2026-04-01,40,Red Bull F1 merch,2026,Red Bull
+2026-05-01,26,Red Bull F1 merch,2026,Red Bull
+2026-06-01,30,Red Bull F1 merch,2026,Red Bull
+2018-01-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-02-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-03-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-04-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-05-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-06-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-07-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-08-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-09-01,86,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-10-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-11-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2018-12-01,0,Lewis Hamilton fashion,2018,Driver/Fashion
+2019-01-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-02-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-03-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-04-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-05-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-06-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-07-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-08-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-09-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-10-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-11-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2019-12-01,0,Lewis Hamilton fashion,2019,Driver/Fashion
+2020-01-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-02-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-03-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-04-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-05-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-06-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-07-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-08-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-09-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-10-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-11-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2020-12-01,0,Lewis Hamilton fashion,2020,Driver/Fashion
+2021-01-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-02-01,41,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-03-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-04-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-05-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-06-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-07-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-08-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-09-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-10-01,55,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-11-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2021-12-01,0,Lewis Hamilton fashion,2021,Driver/Fashion
+2022-01-01,0,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-02-01,0,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-03-01,60,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-04-01,30,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-05-01,46,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-06-01,0,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-07-01,0,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-08-01,61,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-09-01,40,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-10-01,35,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-11-01,34,Lewis Hamilton fashion,2022,Driver/Fashion
+2022-12-01,0,Lewis Hamilton fashion,2022,Driver/Fashion
+2023-01-01,0,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-02-01,0,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-03-01,33,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-04-01,40,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-05-01,0,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-06-01,51,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-07-01,0,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-08-01,40,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-09-01,0,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-10-01,44,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-11-01,0,Lewis Hamilton fashion,2023,Driver/Fashion
+2023-12-01,38,Lewis Hamilton fashion,2023,Driver/Fashion
+2024-01-01,0,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-02-01,49,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-03-01,0,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-04-01,0,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-05-01,51,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-06-01,48,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-07-01,71,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-08-01,0,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-09-01,0,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-10-01,0,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-11-01,48,Lewis Hamilton fashion,2024,Driver/Fashion
+2024-12-01,60,Lewis Hamilton fashion,2024,Driver/Fashion
+2025-01-01,64,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-02-01,81,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-03-01,0,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-04-01,48,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-05-01,48,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-06-01,48,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-07-01,81,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-08-01,0,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-09-01,0,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-10-01,0,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-11-01,49,Lewis Hamilton fashion,2025,Driver/Fashion
+2025-12-01,80,Lewis Hamilton fashion,2025,Driver/Fashion
+2026-01-01,57,Lewis Hamilton fashion,2026,Driver/Fashion
+2026-02-01,100,Lewis Hamilton fashion,2026,Driver/Fashion
+2026-03-01,64,Lewis Hamilton fashion,2026,Driver/Fashion
+2026-04-01,80,Lewis Hamilton fashion,2026,Driver/Fashion
+2026-05-01,59,Lewis Hamilton fashion,2026,Driver/Fashion
+2026-06-01,60,Lewis Hamilton fashion,2026,Driver/Fashion
